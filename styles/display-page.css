@@ -1,0 +1,40 @@
+body {
+	width: 800px;
+	font-size: 0;
+}
+
+.row1 {
+	height: 200px;
+ 	width: 50%;
+  	display: inline-block;
+  	font-size: 0;
+}
+
+.row2 {
+	height: 300px;
+ 	width: 33.3%;
+  	display: inline-block;
+  	font-size: 0;
+}
+
+.half1 {
+	background-color: green;
+
+}
+
+.half2 {
+	background-color: red;
+}
+
+.third1 {
+	background-color: gray;
+}
+
+.third2 {
+	background-color: black;
+}
+
+.third3 {
+	background-color: orange;
+}
+
